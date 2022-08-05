@@ -1,9 +1,9 @@
-# ADW7000W_Firmware
-For Philips Fidelio ADW7000W/37 users this is the very last firmware version s9110.102.3710
+# AD7000W_Firmware
+The last version of firmware (s9110.102.3710) for Philips Fidelio AD7000W/37 AirPlay speakers
 
-The Philips Fidelio ADW700W/37 AirPlay speaker was discontinued by Philips.  Unfortunately the on-device firmware updates are no longer avaialble on their support site.  I have also come across many posts on the web indicating that not many users upgraded their firmware.  I was able to obtain from Philips the very last version of the firmware along with their upgrade procedure documents.  I'm preserving this here for anyone who still may have these devices.
+The Philips Fidelio AD7000W/37 AirPlay speaker was discontinued by Philips.  Unfortunately the on-device firmware updates are no longer avaialble on their support site.  I have also come across many posts on the web indicating that not many users upgraded their firmware.  I was able to obtain from Philips the very last version of the firmware along with their upgrade procedure documents.  I'm preserving this here for anyone who still may have these devices.
 
-This will update your Philips Fidelio ADW700W/37 to firmware version s9110.102.3710 which was released on 2012-04-15.  According to their technical support staff this is the very last version that was made avaialble to customers.  Althogh I have no release notes for this version I am told it improves WiFi connection reliablity.
+This will update your Philips Fidelio AD7000W/37 to firmware version s9110.102.3710 which was released on 2012-04-15.  According to their technical support staff this is the very last version that was made avaialble to customers.  Although I have no release notes for this version I am told it improves WiFi connection reliablity.
 
 # Instructions
 - Read through the PDF file on how to upgrade the speaker
